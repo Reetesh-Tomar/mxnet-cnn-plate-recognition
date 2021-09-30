@@ -10,6 +10,7 @@
 ### 所需环境
 
 > * Python2.7
+> pyhton 2.9 is latest
 > * Mxnet
 > * Numpy
 > * Opencv
