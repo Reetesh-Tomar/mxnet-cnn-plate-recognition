@@ -12,7 +12,6 @@
 > * Python2.7
 > pyhton 2.9 is latest
 > * Mxnet
-> Hi
 > * Numpy
 > * Opencv
 
